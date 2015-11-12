@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/rootfs/azurefile",
+	"GoVersion": "go1.4",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Azure/azure-sdk-for-go/storage",
+			"Comment": "v1.2-240-g240095c",
+			"Rev": "240095c26bb0971427336065fbda709acd5b9b5d"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/cli",
+			"Comment": "1.2.0-143-ga65b733",
+			"Rev": "a65b733b303f0055f8d324d805f393cd3e7a7904"
+		}
+	]
+}
